@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=detector_lines
+%uri=https://github.com/jmarca/detector_lines
+
+detector_lines [tdetector:tdetector] 2016-04-15T08:19:20Z James E. Marca <james@activimetrics.com> # grouped detectors by facility
