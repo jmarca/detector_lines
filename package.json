@@ -6,7 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "tdetector": "github:jmarca/tdetector"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "pgtap"
